@@ -1,0 +1,32 @@
+[
+    {
+        "type": "income",
+        "amount": 1500.0,
+        "category": "salary",
+        "date": "2026-06-08"
+    },
+    {
+        "type": "expense",
+        "amount": 200.0,
+        "category": "food",
+        "date": "2026-06-09"
+    },
+    {
+        "type": "expense",
+        "amount": 50.0,
+        "category": "toys",
+        "date": "2026-06-09"
+    },
+    {
+        "type": "income",
+        "amount": 600.0,
+        "category": "mini job",
+        "date": "2026-06-09"
+    },
+    {
+        "type": "expense",
+        "amount": 300.0,
+        "category": "video games",
+        "date": "2026-06-09"
+    }
+]
